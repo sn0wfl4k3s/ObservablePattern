@@ -1,0 +1,11 @@
+C:\Users\eduardoOJ\source\repos\ObservablePattern\ObservablePattern\bin\Debug\netcoreapp2.2\ObservablePattern.deps.json
+C:\Users\eduardoOJ\source\repos\ObservablePattern\ObservablePattern\bin\Debug\netcoreapp2.2\ObservablePattern.runtimeconfig.json
+C:\Users\eduardoOJ\source\repos\ObservablePattern\ObservablePattern\bin\Debug\netcoreapp2.2\ObservablePattern.runtimeconfig.dev.json
+C:\Users\eduardoOJ\source\repos\ObservablePattern\ObservablePattern\bin\Debug\netcoreapp2.2\ObservablePattern.dll
+C:\Users\eduardoOJ\source\repos\ObservablePattern\ObservablePattern\bin\Debug\netcoreapp2.2\ObservablePattern.pdb
+C:\Users\eduardoOJ\source\repos\ObservablePattern\ObservablePattern\obj\Debug\netcoreapp2.2\ObservablePattern.csprojAssemblyReference.cache
+C:\Users\eduardoOJ\source\repos\ObservablePattern\ObservablePattern\obj\Debug\netcoreapp2.2\ObservablePattern.csproj.CoreCompileInputs.cache
+C:\Users\eduardoOJ\source\repos\ObservablePattern\ObservablePattern\obj\Debug\netcoreapp2.2\ObservablePattern.AssemblyInfoInputs.cache
+C:\Users\eduardoOJ\source\repos\ObservablePattern\ObservablePattern\obj\Debug\netcoreapp2.2\ObservablePattern.AssemblyInfo.cs
+C:\Users\eduardoOJ\source\repos\ObservablePattern\ObservablePattern\obj\Debug\netcoreapp2.2\ObservablePattern.dll
+C:\Users\eduardoOJ\source\repos\ObservablePattern\ObservablePattern\obj\Debug\netcoreapp2.2\ObservablePattern.pdb
